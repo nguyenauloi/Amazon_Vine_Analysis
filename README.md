@@ -8,10 +8,10 @@ $ellby has hired BigMarket to compare their products versus their competitors. T
 # Results
 
 #### Paid Reviews
-<img src="<link>" width="600">
+<img src="https://github.com/nguyenauloi/Amazon_Vine_Analysis/blob/main/resources/imgs/paid_reviews.PNG" width="600">
 
 #### Unpaid Reviews
-<img src="<link>" width="600">
+<img src="https://github.com/nguyenauloi/Amazon_Vine_Analysis/blob/main/resources/imgs/unpaid_reviews.PNG" width="600">
 
  - How many Vine reviews and non-Vine reviews were there?
     - There were 1,207 Vine (paid) reviews and 97,839 non-Vine (unpaid) reviews.
